@@ -61,3 +61,5 @@ Alwin Sudheesh
 
 B.Com & Diploma in Hospital Administration
 Hospital Operations & MIS Enthusiast
+
+License: MIT
