@@ -4,30 +4,26 @@ This project is an Excel-based Hospital Management Information System (MIS) dash
 
 This project is an Excel-based Hospital Management Information System (MIS) dashboard developed using a publicly available healthcare dataset (Kaggle). It focuses on analyzing bed utilization, demand pressure, and capacity planning to support hospital operations.
 
-🎯 Objectives
+# Objectives
 
 Monitor bed utilization and occupancy trends
-
 Analyze demand gaps and patient refusals
-
 Compare admissions vs available capacity
-
 Support operational decision-making using KPIs
 
-🛠️ Tools & Technologies
+# Tools & Technologies
 
 Microsoft Excel (PivotTables, PivotCharts, Dashboards)
-
 Data Cleaning & Validation
-
 KPI & Performance Analysis
-
 Lean Six Sigma (DMAIC Framework)
 
-📂 Dataset
+# Dataset
 
-Source: Public healthcare operations dataset from Kaggle
+Source: Hospital Beds Management dataset from Kaggle
 Used for educational and analytical purposes.
+
+Link: https://www.kaggle.com/datasets/jaderz/hospital-beds-management
 
 📈 Key Features
 
