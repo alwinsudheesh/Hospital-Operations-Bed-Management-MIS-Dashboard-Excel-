@@ -57,7 +57,7 @@ SQL database linkage
 Predictive demand forecasting
 
 # Author
-Alwin Sudheesh
+Alwin Sudheesh 
 B.Com & Diploma in Hospital Administration
 Hospital Operations & MIS Enthusiast
 
