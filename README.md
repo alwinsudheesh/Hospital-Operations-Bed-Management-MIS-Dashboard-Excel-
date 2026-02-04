@@ -25,54 +25,39 @@ Used for educational and analytical purposes.
 
 Link: https://www.kaggle.com/datasets/jaderz/hospital-beds-management
 
-📈 Key Features
-
+# Key Features
 Automated ADT & census reporting
-
 Interactive slicers for department-wise analysis
-
 Bed utilization trend analysis
-
 Demand gap monitoring
-
 Capacity vs load comparison dashboard
-
 KPI summary section
 
-🧠 Methodology
+# Methodology
 
 Applied Lean Six Sigma DMAIC methodology:
-
 Define: Identified capacity and congestion issues
-
 Measure: Tracked utilization, demand gap, refusals
-
 Analyze: Studied weekly trends and bottlenecks
-
 Improve: Proposed capacity and flow improvements
-
 Control: Developed dashboard for continuous monitoring
 
-📊 Outputs
+# Outputs
 
 Excel MIS Dashboard
-
 Analytical PDF Report
-
 Interview Preparation Documents
 
-🚀 Future Improvements
+#Future Improvements
 
 Power BI integration
-
 Real-time data automation
-
 SQL database linkage
-
 Predictive demand forecasting
 
-👤 Author
+# Author
 
 Alwin Sudheesh
+
 B.Com & Diploma in Hospital Administration
 Hospital Operations & MIS Enthusiast
